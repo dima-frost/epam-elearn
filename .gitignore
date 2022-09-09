@@ -2,3 +2,5 @@
 *.log
 target/
 bin/
+arrows.txt.orig
+*.orig
